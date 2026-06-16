@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+rl_prompt.egg-info/PKG-INFO
+rl_prompt.egg-info/SOURCES.txt
+rl_prompt.egg-info/dependency_links.txt
+rl_prompt.egg-info/requires.txt
+rl_prompt.egg-info/top_level.txt
